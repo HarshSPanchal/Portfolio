@@ -1,5 +1,5 @@
 <h1># Portfolio Website</h1>
-<hr>
+
 <h2>Introduction</h2>
 Welcome to my personal portfolio website! This platform showcases my projects, skills, and professional journey as a Web Developer. Designed to highlight my expertise in creating dynamic, user-friendly websites and applications.
 
